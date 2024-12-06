@@ -1,28 +1,20 @@
-This project was generated from [create.xyz](https://create.xyz/).
 
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+# Imagens do Projeto
 
-## Getting Started
+![Texto alternativo](imagem_readme_icad.png)
 
-First, run the development server:
+<a href="https://youtube.com/@official-tcad?si=XOXFicgci-_aFfeM" style="text-decoration: none; display: inline-flex; align-items: center; padding: 5px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20" height="20" style="margin-right: 5px;"/>
+    Official-tCad
+</a>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<a href="https://www.instagram.com/cadesuh_?igsh=c2lobmVzejRidWtr" style="text-decoration: none; display: inline-flex; align-items: center; padding: 5px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9; margin-left: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="margin-right: 5px;"/>
+    cadesuh_
+</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the code in `src`. The page auto-updates as you edit the file.
+© 2023 Cadesuh. Este projeto é disponibilizado gratuitamente. Se você utilizar este projeto, por favor, dê os devidos créditos.
 
-To learn more, take a look at the following resources:
-
-- [React Documentation](https://react.dev/) - learn about React
-- [TailwindCSS Documentation](https://tailwindcss.com/) - learn about TailwindCSS
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Acesse o site da nossa parceira: [Created](https://www.created.com)
