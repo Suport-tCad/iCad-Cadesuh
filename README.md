@@ -1,7 +1,7 @@
 
-# Imagens do Projeto
+# want to know more?
 
-![Texto alternativo](imagem_readme_icad.png)
+
 
 <a href="https://youtube.com/@official-tcad?si=XOXFicgci-_aFfeM" style="text-decoration: none; display: inline-flex; align-items: center; padding: 5px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20" height="20" style="margin-right: 5px;"/>
